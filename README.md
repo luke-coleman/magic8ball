@@ -1,2 +1,2 @@
 # magic8ball
-from a git training course
+What does the future look like.....
